@@ -142,5 +142,6 @@ int main() {
 
   // save_ppm_ascii(s, "work02.ppm");
   display(s);
+  save_extension(s, "amogus.png");
 
 }
